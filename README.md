@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm vrxwyd</h1>
-<h3 align="center">A passionate frontend developer from NYC</h3>
+<h1 align="center">Hi 👋, I'm Vrx</h1>
+<h3 align="center">A passionate frontend developer who works with Lua, Js,Typescript. </h3>
 
 - 🔭 I’m currently working on **Lua, Js,Typescript,**
 
 - 🤝 I’m looking for help with **Lua, Js**
 
-- 📫 How to reach me **lordvrx7@gamail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-**lordvrx7@gamail.com**
 
 **https://twitter.com/vrxwyd**
 
