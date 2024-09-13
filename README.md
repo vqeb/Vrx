@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **C#, C++, Lua, HTML, CSS, JavaScript, PHP** and starting to learn **Python, Assembly, Svelte and Mantine**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">- Connect with me:</h3>
 <p align="left">
 </p>
 
